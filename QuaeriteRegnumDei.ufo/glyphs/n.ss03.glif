@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n.ss03" format="2">
+	<advance width="370"/>
+	<outline>
+		<contour>
+			<point x="19" y="435" type="line"/>
+			<point x="19" y="425" type="line"/>
+			<point x="19" y="0" type="line"/>
+			<point x="139" y="0" type="line"/>
+			<point x="139" y="363.86539" type="line"/>
+			<point x="157.71875" y="374.48926" type="line"/>
+			<point x="244.97949" y="344.46485" type="line"/>
+			<point x="244.98242" y="0.00001" type="line"/>
+			<point x="349.0166" y="0.00001" type="line"/>
+			<point x="349.01758" y="411.31935" type="line"/>
+			<point x="343.28125" y="419.51075" type="line"/>
+			<point x="250.28125" y="451.50977" type="line"/>
+			<point x="213.28027" y="430.50977" type="line"/>
+			<point x="139" y="378.49801" type="line"/>
+			<point x="139" y="435" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.ss02" format="2">
+	<advance width="363"/>
+	<outline>
+		<contour>
+			<point x="160.29785" y="510.50977" type="line"/>
+			<point x="61.99902" y="441.68067" type="line"/>
+			<point x="61.99902" y="397.19039" type="line"/>
+			<point x="17" y="365.68165" type="line"/>
+			<point x="22.73535" y="357.49025" type="line"/>
+			<point x="61.99902" y="357.49025" type="line"/>
+			<point x="61.99902" y="70.68068" type="line"/>
+			<point x="67.73535" y="62.48928" type="line"/>
+			<point x="68.89258" y="60.95901" type="line"/>
+			<point x="129.73535" y="-19.50974" type="line"/>
+			<point x="166.73535" y="0.49026" type="line"/>
+			<point x="265.03418" y="69.31936" type="line"/>
+			<point x="259.29785" y="77.51076" type="line"/>
+			<point x="222.29785" y="57.51076" type="line"/>
+			<point x="166.0332" y="131.92385" type="line"/>
+			<point x="166.0332" y="357.49025" type="line"/>
+			<point x="246.73535" y="357.49025" type="line"/>
+			<point x="345.03418" y="426.31935" type="line"/>
+			<point x="339.29785" y="434.51075" type="line"/>
+			<point x="166.0332" y="434.51075" type="line"/>
+			<point x="166.0332" y="502.31837" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.ss03" format="2">
+	<advance width="364"/>
+	<outline>
+		<contour>
+			<point x="123.03418" y="434" type="line"/>
+			<point x="19" y="434" type="line"/>
+			<point x="19" y="63.68066" type="line"/>
+			<point x="24.73535" y="55.48926" type="line"/>
+			<point x="106.73633" y="-15.50976" type="line"/>
+			<point x="147.73535" y="9.48926" type="line"/>
+			<point x="223.23437" y="62.35388" type="line"/>
+			<point x="223.23437" y="0.4043" type="line"/>
+			<point x="343.23437" y="0.4043" type="line"/>
+			<point x="343.23437" y="10.4043" type="line"/>
+			<point x="343.23437" y="434" type="line"/>
+			<point x="223.23437" y="434" type="line"/>
+			<point x="223.23437" y="424.4043" type="line"/>
+			<point x="223.23437" y="76.10537" type="line"/>
+			<point x="199.29882" y="61.51075" type="line"/>
+			<point x="123.08105" y="127.50294" type="line"/>
+		</contour>
+	</outline>
+</glyph>

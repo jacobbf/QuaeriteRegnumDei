@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.alt" format="2">
+	<advance width="297"/>
+	<outline>
+		<contour>
+			<point x="117.29883" y="539.56055" type="line"/>
+			<point x="19.00098" y="470.73047" type="line"/>
+			<point x="19" y="53.73047" type="line"/>
+			<point x="24.73633" y="45.53907" type="line"/>
+			<point x="117.73633" y="-11.46093" type="line"/>
+			<point x="216.03418" y="57.36915" type="line"/>
+			<point x="210.29883" y="65.56055" type="line"/>
+			<point x="123.10645" y="119" type="line"/>
+			<point x="123.06438" y="359.05078" type="line"/>
+			<point x="279.01758" y="359.05078" type="line"/>
+			<point x="279.01758" y="439.05078" type="line"/>
+			<point x="123.05036" y="439.05078" type="line"/>
+			<point x="123.03419" y="531.36914" type="line"/>
+		</contour>
+	</outline>
+</glyph>
