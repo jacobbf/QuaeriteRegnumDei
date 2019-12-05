@@ -4,7 +4,7 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>God</string>
+		<string>God ble/s.alt/s.alt  /u.alt/s.alt</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
